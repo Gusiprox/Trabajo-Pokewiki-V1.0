@@ -1,0 +1,127 @@
+.sectionsPageSection .tablaDebilidades{
+
+    width: 100%;
+    text-align: center;
+    
+}
+
+.sectionsPageSection .tablaDebilidades div{
+
+    width: 99%;
+    text-align: center;
+    border-style: none;
+}
+.sectionsPageSection .tablaDebilidades h2{
+
+    font-size: 70px;
+}
+
+div .debilidades{
+
+    text-align: center;
+    width: 100%;
+}
+.debilidades th{
+
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+.debilidades td{
+
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.debilidades .x05{
+
+    background-color: rgb(34, 8, 8);
+    color: whitesmoke;
+}
+
+.debilidades .x025{
+
+    background-color: rgb(47, 19, 19);
+    color: whitesmoke;
+}
+.debilidades .x2{
+
+    background-color: rgb(60, 88, 146);
+    color: whitesmoke;
+}
+.debilidades .x4{
+
+    background-color: rgb(18, 56, 132);
+    color: whitesmoke;
+}
+.debilidades .neu{
+
+    background-color: rgb(155, 115, 115);
+    color: rgb(0, 0, 0);
+}
+.debilidades .typemaster{
+
+    background-color: rgb(8, 108, 12);
+    color: whitesmoke
+}
+
+.debilidades .type{
+
+    background-color: rgb(67, 21, 221);
+    color: whitesmoke
+}
+
+section .tablamovs {
+
+    width: 99%;
+    text-align: center;
+}
+
+section .tablamovs h1 {
+
+    font-size: 70px;
+    color: whitesmoke;
+}
+
+.movs{
+    width: 100%;
+    margin-top: 20px;
+    border-spacing: 0px 20%;
+}
+
+.movs .movimiento{
+    
+    background-color: rgb(8, 64, 61);
+    font-size: 18px;
+}
+
+.movs .nivel{
+    
+    background-color: rgb(13, 64, 8);
+    font-size: 18px;
+}
+
+.movs .tipo{
+    
+    background-color: rgb(64, 12, 8);
+    font-size: 18px;
+}
+
+.movs thead{
+    background-color: rgb(27, 32, 182);
+}
+.movs .level{
+    background-color: rgb(22, 24, 62);
+    font-size: 30px;
+}
+
+.movs td{
+    padding: 12px;
+    color: whitesmoke;
+}
+.movs th{
+    padding: 18px;
+    color: whitesmoke;
+
+}

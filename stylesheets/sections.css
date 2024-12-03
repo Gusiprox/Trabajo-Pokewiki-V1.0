@@ -1,0 +1,79 @@
+
+.fuego{
+    background-image: url("../images/Fuego.png");
+    background-size: 10%;
+
+}
+
+.planta{
+    background-image: url("../images/planta.png");
+    background-size: 10%;
+}
+
+
+
+.sectionsPageSection {
+
+    padding: 5px;
+    align-items: flex-start;
+}
+
+
+.sectionsPageSection div {
+
+    border: 2px;
+    border-style: solid;
+    padding: 5px;
+    width: 30%;
+    margin-top: 15px;
+    
+}
+
+.sectionsPageSection h2 {
+
+    color: whitesmoke;
+}
+
+.sectionsPageSection .video {
+
+    height: auto;
+    width: 66%;
+    text-align: center;
+}
+
+.sectionsPageSection .video div{
+
+    margin-bottom: 15px;
+    width: 98%;
+    text-align: start;
+}
+
+.imageContainer {
+
+    text-align: center;
+}
+
+.evolutions ul{
+
+    content: ">";
+}
+
+.sectionsPageSection .encuesta{
+
+    width: 48%;
+}
+.sectionsPageSection .quiz{
+
+    width: 48%;
+}
+label{
+    color:whitesmoke;
+    font-size: 20px;
+}
+
+#texto{
+    width: 55%;
+}
+#enviar{
+    width: 40%;
+}
